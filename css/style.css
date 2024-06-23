@@ -220,7 +220,7 @@ animation-direction: alternate;
     width: 40%;
     padding: max(6px, 1%);
     border-radius: 20px;
-    word-spacing: 1.2rem;
+    word-spacing: 0.6rem;
     background-color: var(--hover-colors);
     box-shadow: 0 0 1rem var(--hover-colors);
     transition: 0.5s ease-in-out;
@@ -425,11 +425,11 @@ div.info-layer p {
 }
 
 .info-layer2 {
-    color: var(--main-text-color) !important;
+    color: black !important;
 }
 
 .info-layer1 {
-    color: #fefef0 !important;
+    color: black !important;
 }
 
 /* Contact us */
