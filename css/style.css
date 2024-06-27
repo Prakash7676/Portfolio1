@@ -226,6 +226,8 @@ animation-direction: alternate;
     transition: 0.5s ease-in-out;
     cursor: pointer;
     z-index: -5;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .resume-links a {
@@ -234,6 +236,8 @@ animation-direction: alternate;
     font-weight: 900;
     font-size: 2rem;
     padding-inline: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 
